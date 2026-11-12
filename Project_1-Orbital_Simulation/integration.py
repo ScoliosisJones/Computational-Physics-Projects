@@ -1,4 +1,3 @@
-
 import math
 
 # Physical constants
